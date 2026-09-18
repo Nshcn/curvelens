@@ -18,6 +18,8 @@ import {
   ChevronRight,
   Code2,
   Copy,
+  FileText,
+  Film,
   Gauge,
   Info,
   LockKeyhole,
@@ -908,6 +910,34 @@ export function CurveWorkbench() {
             </span>
           </footer>
         </aside>
+      </section>
+
+      <section className="pitch-section" aria-labelledby="pitch-title">
+        <div className="pitch-copy">
+          <p className="eyebrow">04 / Present</p>
+          <h2 id="pitch-title">The 100-second product brief</h2>
+          <p>
+            A concise walkthrough of the launch problem, the SDK-native
+            simulation path, the verified community preset and the planned
+            business model.
+          </p>
+          <div className="pitch-actions">
+            <a href="/media/CurveLens-demo-v1.mp4">
+              <Film /> Open video
+            </a>
+            <a href="/media/CurveLens-pitch-v1.pptx" download>
+              <FileText /> Download deck
+            </a>
+          </div>
+        </div>
+        <video
+          aria-label="CurveLens product brief"
+          className="pitch-video"
+          controls
+          playsInline
+          preload="metadata"
+          src="/media/CurveLens-demo-v1.mp4"
+        />
       </section>
     </main>
   );

@@ -7,6 +7,11 @@
 - Main Colosseum submission:
 - Demo video:
 
+Local submission assets:
+
+- `public/media/CurveLens-demo-v1.mp4`
+- `public/media/CurveLens-pitch-v1.pptx`
+
 ## One-line pitch
 
 CurveLens is a protocol-native preflight workbench that turns Meteora DBC configuration into an inspectable capital path before a launch team signs a transaction.
@@ -57,4 +62,3 @@ Add multi-builder comparison (`buildCurveWithTwoSegments`, `buildCurveWithMidPri
 ## Submission description
 
 CurveLens is a Meteora DBC configuration and risk workbench for launchpad builders. Instead of asking teams to reason from raw config files, it turns official SDK output into a live capital path: graduation quote threshold, price expansion, token distribution, fee structure, and the creator/partner liquidity split that migrates to DAMM v2. Every checkpoint is generated with the Meteora DBC SDK, and the export preserves both human inputs and resolved BN values. The current release is intentionally read-only—no wallet, no hidden transaction—so teams can evaluate a launch before moving on-chain.
-

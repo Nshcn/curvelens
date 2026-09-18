@@ -56,6 +56,13 @@ npm run build
 
 The focused model tests pin the default 20 → 600 SOL scenario to the SDK-derived `92.632253276 SOL` migration threshold and verify invalid market-cap ordering.
 
+## Pitch materials
+
+- [100-second demo video](public/media/CurveLens-demo-v1.mp4)
+- [Editable pitch deck](public/media/CurveLens-pitch-v1.pptx)
+
+The video and deck distinguish current working functionality from planned business-model and validation targets.
+
 ## Roadmap
 
 - Compare official two-segment, mid-price, and liquidity-weight builders side by side
@@ -68,4 +75,3 @@ The focused model tests pin the default 20 → 600 SOL scenario to the SDK-deriv
 - [Meteora DBC SDK](https://github.com/MeteoraAg/dynamic-bonding-curve-sdk)
 - [Meteora DBC program](https://github.com/MeteoraAg/dynamic-bonding-curve)
 - [Meteora DBC developer guide](https://docs.meteora.ag/developer-guides/dbc/overview)
-
