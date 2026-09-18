@@ -2,15 +2,17 @@
 
 ## Links
 
-- Demo URL:
-- Source repository:
-- Main Colosseum submission:
-- Demo video:
+- Demo URL: https://curvelens-dbc.coral-cow-0547.chatgpt.site/
+- Source repository: https://github.com/Nshcn/curvelens
+- Main Colosseum project: https://colosseum.com/arena/projects/curvelens
+- Demo video: https://curvelens-dbc.coral-cow-0547.chatgpt.site/media/CurveLens-demo-v1.mp4
+- Pitch video: https://curvelens-dbc.coral-cow-0547.chatgpt.site/media/CurveLens-pitch-video-v2.mp4
 
 Local submission assets:
 
 - `public/media/CurveLens-demo-v1.mp4`
 - `public/media/CurveLens-pitch-v1.pptx`
+- `public/media/CurveLens-pitch-video-v2.mp4`
 
 ## One-line pitch
 
